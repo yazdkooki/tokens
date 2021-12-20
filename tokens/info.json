@@ -1,0 +1,9 @@
+    "name": "GovCoins",
+    "website": "https://govcoins369.com",
+    "description": "Gov coins are anti-inflationary and work for the benefit of their community.",
+    "explorer": "https://bscscan.com/token/0x47410fbb10abeee9277a28f8f4072f7a1e430b80",
+    "type": "BEP20",
+    "symbol": "GOV",
+    "decimals": 8,
+    "status": "active",
+    "id": "0x47410fbb10abeee9277a28f8f4072f7a1e430b80"
